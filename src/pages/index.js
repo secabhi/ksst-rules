@@ -103,7 +103,15 @@ export default function Home() {
 
           <div style={{ marginTop: "20px" }}>
             <div>
-              <strong style={{color:'red'}}>Note:</strong>
+              <strong
+                style={{
+                  color: "red",
+                  display: "flex",
+                  justifyContent: "center",
+                }}
+              >
+                NOTE
+              </strong>
               <p>
                 We have vehicle stickers based on the information collected.
               </p>
