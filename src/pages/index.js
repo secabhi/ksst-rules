@@ -86,10 +86,6 @@ export default function Home() {
               vehicle from the parking space permanently.
             </li>
             <li>
-              QR code will be provided at security gate and multiple places in
-              society to quickly access the rules.
-            </li>
-            <li>
               Please refrain from engaging in disputes or arguments with
               security guards, as they are simply carrying out their duties.
             </li>
