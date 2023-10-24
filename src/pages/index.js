@@ -87,7 +87,7 @@ export default function Home() {
             </li>
             <li>
               Please refrain from engaging in disputes or arguments with
-              security guards, as they are simply carrying out their duties.
+              security guards and society manager as they are simply carrying out their duties.
             </li>
             <li>
               If residents experience any inconvenience or believe a guard is
