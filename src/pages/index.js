@@ -37,6 +37,12 @@ export default function Home() {
             </li>
             <li>Guest parking spaces should be utilized for visitors.</li>
             <li>
+              Visitors are allowed to park for a maximum of two days. If a
+              vehicle is parked for more than two days, security will immobilize
+              it and impose a fine of Rs.300/day. The vehicle will only be
+              unlocked after the fine is paid.
+            </li>
+            <li>
               Residents should park their vehicles in a manner that does not
               hamper the free movement of other vehicles or obstruct fire lanes,
               driveways, or emergency exits.
